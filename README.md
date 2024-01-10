@@ -17,5 +17,5 @@ create an .env file load your APIs
 
 ```
 ```
-npm i && npm start (firstly confirm all packages are installed)
+npm i && npm run dev (firstly confirm all packages are installed)
 ```
