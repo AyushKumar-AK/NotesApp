@@ -4,7 +4,7 @@ Pinecone, Next.js, Clerk and more.
 
 # Demo
 
-![image](https://github.com/AyushKumar-AK/NotesApp/assets/101948218/a29817f5-1cb6-48aa-aee2-d481300a5751)
+![image](https://github.com/AyushKumar-AK/NotesApp/assets/101948218/c301d57a-1e16-4928-bfd0-518ddfd45c46)
 
 ![Screenshot (228)](https://github.com/AyushKumar-AK/NotesApp/assets/101948218/fa9a0f51-7037-4e05-9a25-a259d4cd5305)
 
